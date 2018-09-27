@@ -2,6 +2,7 @@
 
 int testPull()
 {
+	printf("jjjj");
 	return 0;
 }
 
